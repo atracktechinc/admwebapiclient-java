@@ -2,6 +2,7 @@
 
 ## Prerequisites
   - IntelliJ IDEA 2019, or other IDE
+  - JDK 1.8
   - Gradle 4.10.3 or above
   - APPId
   - SecretKey
